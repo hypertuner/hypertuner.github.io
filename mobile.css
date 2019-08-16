@@ -1,0 +1,16 @@
+@media only screen and (max-width: 500px) {
+  #body > section.hero-area > div > div > div.col-md-6.text-center > img {
+    height: 30vh;
+  }
+  #body > section.hero-area > div > div > div:nth-child(2) > div > h1 {
+    font-size: 2em;
+  }
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+img {
+  max-width: 100%;
+}
